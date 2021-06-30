@@ -26,7 +26,7 @@
 
 </details>
 
-[notepad]: https://github.com/GauravAmarnaniTest/Projects/tree/master/java_marksheet
+[notepad]: https://github.com/GauravAmarnani/Projects/tree/master/GA_TextEditor
 [facebook]: https://www.facebook.com/gaurav.amarnani.351
 [twitter]: https://twitter.com/gauravamarnani1
 [instagram]: https://www.instagram.com/gaurav_amarnani
