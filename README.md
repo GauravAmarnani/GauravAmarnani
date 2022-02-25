@@ -1,35 +1,64 @@
-### Hi there, I'm Gaurav. 👋
----
-## I'm a Student and Developer !
-- 🔭 I’m currently working on a [Personal Text Editor][notepad]!
-- 🌱 I’m currently learning [Springs][springs].
-- 👯 I’m looking to learn [Git and Github][git-tutorial] practically.
-- 🥅 2021 Goals: Develop a Big Project. 
-- ⚡ Fun fact: I love to read and binge watch.
+<h1 align="center"> 
+  Hi there, I'm <a href="https://gauravamarnani12.wixsite.com/aboutme" target="_blank">Gaurav Amarnani</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gaurav-amarnani-6bbaa51b2/)
+  [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://gauravamarnani12.wixsite.com/aboutme)
+  [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/gauravamarnani1)
+  [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/gaurav_amarnani)
+
+</h1>
+
+<h5 align="center">
+   <i>⚡️I don’t trust people who don’t write SQL queries in uppercase⚡️</i>
+</h5>
 
 ---
 
-### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Gaurav Amarnani Spotify Playing" width="350" />](https://open.spotify.com/playlist/3CdByL653vzo9UjKQPN5zc)
+### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Gaurav.Gaurav)
+
+I am a backend software engineer. I love programming, reading and traveling.
+
+As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
+
+<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
+  
+
+**Talking about Personal Stuffs:**
+
+- 🚀 I’m currently learning Data Structures and Algorithms on [leetcode](https://leetcode.com/GauravAmarnani);
+- 💬 Ask me about anything, I am happy to help;
+- 🌱 I’m currently working on [Spring Framework](https://github.com/GauravAmarnani/Springs);
+- 🥅 2022 Goals: Work on DevOps Project; 
+- 📫 How to reach me: gauravamarnani12@gmail.com;
+- 📝 [Resume](https://gauravamarnani12.wixsite.com/aboutme).
+- ⚡ Fun fact: I love to read and binge watch shows;
+- PS: I know all the memes.
+
+</br>
+
+📊 **This Week I Spent My Time On:**
+<!--START_SECTION:waka-->
+```text
+JAVA   400 mins          █████████████████████████   100.00 % 
+```
+<!--END_SECTION:waka-->
+
+
+📈 **My GitHub Stats:**
+
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GauravAmarnani&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GauravAmarnani&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</p>
 
 ---
 
-### Connect with me:
+<div align="center">
 
-[<img align="left" alt="GauravAmarnani | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="GauravAmarnani | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="GauravAmarnani | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="GauravAmarnani | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+### Show some ❤️ by starring some of my repositories!
 
-<br />
-<br />
+</div>
 
-</details>
 
-[notepad]: https://github.com/GauravAmarnani/Projects/tree/master/GA_TextEditor
-[facebook]: https://www.facebook.com/gaurav.amarnani.351
-[twitter]: https://twitter.com/gauravamarnani1
-[instagram]: https://www.instagram.com/gaurav_amarnani
-[linkedin]: https://www.linkedin.com/in/gaurav-amarnani-6bbaa51b2/
-[springs]: https://github.com/GauravAmarnani/Springs
-[git-tutorial]: https://github.com/GauravAmarnani/Git-Tutorials
+
+
