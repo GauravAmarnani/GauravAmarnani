@@ -34,7 +34,7 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 - ⚡ Fun fact: I love to read and binge watch shows;
 
 </br>
-```
+
 <!--END_SECTION:waka-->
 
 
