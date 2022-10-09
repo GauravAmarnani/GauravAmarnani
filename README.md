@@ -32,14 +32,8 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 - 📫 How to reach me: gauravamarnani12@gmail.com;
 - 📝 [Resume](https://gauravamarnani12.wixsite.com/aboutme).
 - ⚡ Fun fact: I love to read and binge watch shows;
-- PS: I know all the memes.
 
 </br>
-
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-```text
-JAVA   400 mins          █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
