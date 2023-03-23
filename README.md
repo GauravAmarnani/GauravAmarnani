@@ -20,7 +20,7 @@ I am a backend software engineer. I love programming, reading and traveling.
 
 As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
 
-<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="300" />
+<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true&autoplay=true" width="408" height="300" />
   
 
 **Talking about Personal Stuffs:**
