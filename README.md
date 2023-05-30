@@ -14,7 +14,7 @@
 
 ---
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Gaurav.Gaurav)
+### Glad to see you here! &nbsp; <!--![](https://visitor-badge.glitch.me/badge?page_id=Gaurav.Gaurav)-->
 
 I am a backend software engineer. I love programming, reading and traveling.
 
