@@ -30,7 +30,7 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 - 🌱 I’m currently working on [DevOps]([https://github.com/GauravAmarnani/Springs](https://gauravamarnani.github.io/my-stuff/devops_progress.html));
 - 🥅 2025 Goals: Work on Live DevOps Project; 
 - 📫 How to reach me: [gauravamarnani.site](https://gauravamarnani.site)
-- 📝 [Resume](https://gauravamarnani.site/resume).
+- 📝 [Resume](https://gauravamarnani.site/resume.pdf).
 - ⚡ Fun fact: I love to read and binge watch shows;
 
 </br>
