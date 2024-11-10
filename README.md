@@ -25,12 +25,12 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 
 **Talking about Personal Stuffs:**
 
-- 🚀 I’m currently learning Data Structures and Algorithms on [leetcode](https://leetcode.com/GauravAmarnani);
+- 🚀 I’m currently progressing my coding skills on several platforms on my [Repo](https://github.com/GauravAmarnani/platform-coding-solutions/tree/main);
 - 💬 Ask me about anything, I am happy to help;
-- 🌱 I’m currently working on [Spring Framework](https://github.com/GauravAmarnani/Springs);
-- 🥅 2022 Goals: Work on DevOps Project; 
-- 📫 How to reach me: gauravamarnani12@gmail.com;
-- 📝 [Resume](https://gauravamarnani12.wixsite.com/aboutme).
+- 🌱 I’m currently working on [DevOps]([https://github.com/GauravAmarnani/Springs](https://gauravamarnani.github.io/my-stuff/devops_progress.html));
+- 🥅 2025 Goals: Work on Live DevOps Project; 
+- 📫 How to reach me: [gauravamarnani.site](https://gauravamarnani.site)
+- 📝 [Resume](https://gauravamarnani.site/resume).
 - ⚡ Fun fact: I love to read and binge watch shows;
 
 </br>
@@ -42,7 +42,7 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
   <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=GauravAmarnani&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=tokyonight&showicons=true" />
   <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GauravAmarnani&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight&showicons=true"/>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=GauravAmarnani&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=GauravAmarnani&theme=highcontrast)](https://git.io/streak-stats)
   
 </p>
 
