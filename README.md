@@ -14,7 +14,8 @@
 
 ---
 
-### Glad to see you here! &nbsp; <!--![](https://visitor-badge.glitch.me/badge?page_id=Gaurav.Gaurav)-->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=GauravAmarnani&color=blueviolet" alt="views" /> </p>
+### Glad to see you here! &nbsp; 
 
 I am a backend software engineer. I love programming, reading and traveling.
 
