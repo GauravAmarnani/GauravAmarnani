@@ -28,15 +28,16 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 **Talking about Personal Stuffs:**
 
 - 🚀 I’m currently progressing my coding skills on several platforms on my [Repo](https://github.com/GauravAmarnani/platform-coding-solutions/tree/main);
-- 💬 Ask me about anything, I am happy to help;
-- 🌱 I’m currently working on [DevOps]([https://github.com/GauravAmarnani/Springs](https://gauravamarnani.github.io/my-stuff/devops_progress.html));
+- 💬 Currently learning [German Language](https://github.com/GauravAmarnani/german-language-notes/tree/main);
+- 🌱 I’m currently working on [DevOps](https://gauravamarnani.github.io/my-stuff/devops_progress.html);
 - 🥅 2025 Goals: Work on Live DevOps Project; 
 - 📫 How to reach me: [gauravamarnani.site](https://gauravamarnani.site)
 - 📝 [Resume](https://gauravamarnani.site/resume.pdf).
 - ⚡ Fun fact: I love to read and binge watch shows;
 
 </br>
-
+</br>
+</br>
 
 📈 **My GitHub Stats:**
 
@@ -45,9 +46,17 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
   <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GauravAmarnani&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight&showicons=true"/>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=GauravAmarnani&theme=highcontrast)](https://git.io/streak-stats)
-  
+
 </p>
 
+</br>
+
+📈 **My Duolingo Stats:**
+
+<p>
+  <img src="https://duolingo-stats-card.vercel.app/api?username=GauravAmar4&theme=purple-gang&sort=xp" alt="Duolingo Stats"/>
+</p>
+  
 ---
 
 <div align="center">
@@ -55,7 +64,3 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 ### Show some ❤️ by starring some of my repositories!
 
 </div>
-
-
-
-
