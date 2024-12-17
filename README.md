@@ -46,9 +46,9 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
   <img height="219em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=GauravAmarnani&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=tokyonight&showicons=true" />
   <img height="219em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GauravAmarnani&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight&showicons=true"/>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GauravAmarnani&theme=merko&days=40)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GauravAmarnani&theme=merko&days=45)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=GauravAmarnani&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D&card_width=700&card_height=230" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=GauravAmarnani&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D&card_width=1100&card_height=350" /></a>
 
 </p>
 
