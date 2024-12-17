@@ -43,8 +43,8 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 📈 **My GitHub Stats:**
 
 <p>
-  <img height="219em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=GauravAmarnani&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=tokyonight&showicons=true" />
-  <img height="219em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GauravAmarnani&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight&showicons=true"/>
+  <img height="210em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=GauravAmarnani&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=tokyonight&showicons=true" />
+  <img height="210em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GauravAmarnani&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight&showicons=true"/>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GauravAmarnani&theme=merko&days=45)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
