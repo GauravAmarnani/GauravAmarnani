@@ -48,7 +48,7 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GauravAmarnani&theme=merko&days=45)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=GauravAmarnani&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D&card_height=366em" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=GauravAmarnani&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D" /></a>
 
 </p>
 
