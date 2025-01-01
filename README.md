@@ -30,6 +30,7 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 - 🚀 I’m currently progressing my coding skills on several platforms on my [Repo](https://github.com/GauravAmarnani/platform-coding-solutions/tree/main);
 - 💬 Currently learning [German Language](https://github.com/GauravAmarnani/german-language-notes/tree/main);
 - 🌱 I’m currently working on [DevOps](https://tracker.gauravamarnani.site/devops_progress.html);
+- 🚀 Link to all my [Projects](https://projects.gauravamarnani.site)
 - 🌱 Link to home page of all my [Progress Trackers](https://tracker.gauravamarnani.site);
 - 🥅 2025 Goals: Work on Live DevOps Project; 
 - 📫 How to reach me: [gauravamarnani.site](https://gauravamarnani.site)
