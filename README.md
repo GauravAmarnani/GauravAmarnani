@@ -14,7 +14,7 @@
 
 ---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=GauravAmarnani&color=blueviolet" alt="views" /> </p>
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=GauravAmarnani&color=blueviolet](https://komarev.com/ghpvc/?username=GauravAmarnani&color=blueviolet&base=1500)" alt="views" /> </p>
 
 ### Glad to see you here! &nbsp; 
 
